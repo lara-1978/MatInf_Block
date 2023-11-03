@@ -7,3 +7,5 @@ Added string via WEB
 Added local txt
 
 text in a new branch
+
+to solve the problem
